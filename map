@@ -1,0 +1,7 @@
+centos-2-nova:
+  - pg1.gtmanfred.com
+  - pg2.gtmanfred.com
+  - pg3.gtmanfred.com
+  - pg4.gtmanfred.com
+  - master1.gtmanfred.com
+  - master2.gtmanfred.com
