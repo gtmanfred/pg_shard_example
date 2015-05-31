@@ -5,7 +5,9 @@ There is also a .json file that can be input as data to play with
 the jsonb type.
 
 http://blog.2ndquadrant.com/jsonb-type-performance-postgresql-9-4/
+
 http://www.databasesoup.com/2014/12/sqlnosql-pgshard-and-jsonb-part-1.html
+
 https://github.com/citusdata/pg_shard
 
 To convert it to be able to do inserts.
